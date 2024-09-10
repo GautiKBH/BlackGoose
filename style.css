@@ -1,0 +1,36 @@
+* {
+    background-color: bisque;
+}
+
+h1 {
+    text-transform: uppercase;
+    align-content: center;
+    flex-direction: column;
+    flex-wrap: wrap;
+    display: flex;
+}
+
+h2 {
+    color: orange;
+    align-content: center;
+}
+
+h3 {
+    color:orange;
+    align-content: center;
+}
+
+h4 {
+    color: orange;
+    align-content: center;
+}
+
+
+#one {background-color: lightblue;
+    height: 2px;
+}
+
+#two {
+    height: 3px;
+    background-color: black;
+}
